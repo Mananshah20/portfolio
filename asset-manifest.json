@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e7e7c57c.chunk.css",
+    "main.js": "/portfolio/static/js/main.c508b791.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c508b791.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.e84ce2e5.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.e84ce2e5.js.map",
+    "static/js/2.857a7937.chunk.js": "/portfolio/static/js/2.857a7937.chunk.js",
+    "static/js/2.857a7937.chunk.js.map": "/portfolio/static/js/2.857a7937.chunk.js.map",
+    "static/js/3.73681282.chunk.js": "/portfolio/static/js/3.73681282.chunk.js",
+    "static/js/3.73681282.chunk.js.map": "/portfolio/static/js/3.73681282.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.e7e7c57c.chunk.css.map": "/portfolio/static/css/main.e7e7c57c.chunk.css.map",
+    "static/js/2.857a7937.chunk.js.LICENSE.txt": "/portfolio/static/js/2.857a7937.chunk.js.LICENSE.txt",
+    "static/media/Manan2.df77415f.PNG": "/portfolio/static/media/Manan2.df77415f.PNG",
+    "static/media/airbnb.c87c346b.PNG": "/portfolio/static/media/airbnb.c87c346b.PNG",
+    "static/media/bg.02ff47cb.jpg": "/portfolio/static/media/bg.02ff47cb.jpg",
+    "static/media/covid.5995750f.PNG": "/portfolio/static/media/covid.5995750f.PNG",
+    "static/media/d1.7185ab3f.jpg": "/portfolio/static/media/d1.7185ab3f.jpg",
+    "static/media/img-01.caceb143.png": "/portfolio/static/media/img-01.caceb143.png",
+    "static/media/mail.791e7d8f.png": "/portfolio/static/media/mail.791e7d8f.png",
+    "static/media/netflix.760ab504.PNG": "/portfolio/static/media/netflix.760ab504.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e84ce2e5.js",
+    "static/js/2.857a7937.chunk.js",
+    "static/css/main.e7e7c57c.chunk.css",
+    "static/js/main.c508b791.chunk.js"
+  ]
+}
