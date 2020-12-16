@@ -1,0 +1,20 @@
+:root {
+  --shadow-color: #ff9e9e;
+  --shadow-color-light: white;
+}
+
+.logo-1 {
+  margin-top: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.logo-1 {
+  color: white;
+  text-shadow: -1px -1px 1px var(--shadow-color-light),
+    -1px 1px 1px var(--shadow-color-light),
+    1px -1px 1px var(--shadow-color-light),
+    1px 1px 1px var(--shadow-color-light), 0 0 3px var(--shadow-color-light),
+    0 0 10px var(--shadow-color-light), 0 0 20px var(--shadow-color-light),
+    0 0 30px var(--shadow-color), 0 0 40px var(--shadow-color);
+}
