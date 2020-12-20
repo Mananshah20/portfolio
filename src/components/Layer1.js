@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Manan from "../images/Manan2.PNG"
+import Manan from "../images/mananformal4.jpeg"
 
 
 import "../css/layer1.css"
@@ -32,7 +32,7 @@ function Layer1() {
         <div className="wrapper">
             <article className="img-info">
                 <h4>Hello, I'm</h4>
-                <p>Manan Shah</p>
+                <p>MANAN SHAH</p>
                 <h6>Welcome to my Website</h6>
                 <Router>
                     <div className="icons">

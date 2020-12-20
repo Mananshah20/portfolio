@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Cairo&family=Fira+Sans+Condensed:ital,wght@1,300&display=swap");
 @import "util.css";
 :root {
   --primary: #3dcfd3;
@@ -73,17 +73,25 @@ header nav .left a {
   text-align: center;
 }
 .img-info > h4 {
-  padding: 30px 30px 20px;
+  font-family: "Fira Sans Condensed", sans-serif;
+  padding: 10px 30px 20px;
   font-size: 30px;
   color: white;
   line-height: 24px;
 }
 .img-info > p {
-  padding: 0px 30px 20px;
+  font-family: "Cairo", sans-serif;
+
+  /* font-family: "Amatic SC", cursive; */
+  font-family: "Fira Sans Condensed", sans-serif;
+  font-weight: 900;
+  padding: 0px 10px 10px;
   font-size: 70px;
   color: white;
 }
 .img-info > h6 {
+  font-family: "Fira Sans Condensed", sans-serif;
+
   padding: 10px 0px 0px;
   font-size: 30px;
   color: white;
@@ -91,7 +99,7 @@ header nav .left a {
 }
 .img-me {
   width: 100%;
-  height: 600px;
+  height: 650px;
 }
 
 .icon {
@@ -272,6 +280,7 @@ header nav .left a {
     margin: 0 auto;
   }
   .img-info > h4 {
+    font-size: 30px;
     padding: 20px 0px 00px;
   }
   .img-info > p {
@@ -328,18 +337,26 @@ header nav .left a {
     float: left;
   }
   .img-info > h4 {
-    padding: 20px 0px 0px 30px;
+    font-size: 40px;
+    font-weight: 200;
+    padding: 10px 10px 10px 10px;
   }
   .img-info > p {
-    padding: 20px 0px 0px 30px;
+    padding: 10px 0px 0px 10px;
+  }
+  .img-info > h6 {
+    font-weight: 200;
+    font-size: 35px;
   }
   .img-me {
     padding-top: 0px;
-    width: 50%;
+    width: 48%;
     float: right;
+    position: relative;
+    bottom: 30px;
   }
   .icon {
-    width: 15% !important;
+    width: 13% !important;
     padding: 5px;
     margin-right: 20px;
     color: white;
